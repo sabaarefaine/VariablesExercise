@@ -1,0 +1,12 @@
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csprojAssemblyReference.cache
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfoInputs.cache
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfo.cs
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.deps.json
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.json
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.dev.json
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/sabaarefaine/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.genruntimeconfig.cache
